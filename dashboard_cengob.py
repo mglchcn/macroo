@@ -414,7 +414,7 @@ with col_logo:
     except:
          st.markdown("""
         <div style="background: var(--text-color-10); border-radius: 12px; padding: 2rem; text-align: center;">
-            <span style="font-size: 3rem;">🏛️</span><br>
+            <span style="font-size: 3rem;">.</span><br>
             <strong style="color: var(--text-color);">CENGOB</strong>
         </div>
         """, unsafe_allow_html=True)
